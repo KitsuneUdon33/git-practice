@@ -1,0 +1,162 @@
+git commit -m "[Start]Webサイトを作ってみよう-3"
+
+p {
+  font-size: 40px;
+  color: red;
+}
+
+li {
+    color: green;
+  }
+
+  #list_id {
+    color: blue;
+  }
+  
+  .list_class {
+    color: red;
+  }
+
+
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .box {
+    background-color: red;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .box {
+    background-color: red;
+    width: 200px;}
+
+    * {
+        margin: 0;
+        padding: 0;
+      }
+      
+      .box {
+        background-color: red;
+        width: 200px;
+        height: 200px;}
+
+        * {
+            margin: 0;
+            padding: 0;
+          }
+          
+          .box {
+            background-color: red;
+            width: 200px;
+            height: 200px;
+            border: 3px solid #000;}
+
+            * {
+                margin: 0;
+                padding: 0;
+              }
+              
+              .box {
+                background-color: red;
+                width: 200px;
+                height: 200px;
+                border: 3px solid #000;
+                padding: 30px;}
+
+                * {
+                    margin: 0;
+                    padding: 0;
+                  }
+                  
+                  .box {
+                    background-color: red;
+                    width: 200px;
+                    height: 200px;
+                    border: 3px solid #000;
+                    padding: 30px;
+                    margin: 30px;}
+
+                    * {
+                        margin: 0;
+                        padding: 0;
+                      }
+                      
+                      .box {
+                        background-color: red;
+                        width: 200px;
+                        height: 200px;
+                        border: 3px solid #000;
+                        padding: 30px;
+                        margin: 30px;
+                      }
+                      
+                      .box-txt {
+                        font-size: 30px;
+                      }
+
+                      * {
+                        margin: 0;
+                        padding: 0;
+                      }
+                      
+                      .box {
+                        background-color: red;
+                        width: 200px;
+                        height: 200px;
+                        border: 3px solid #000;
+                        padding: 30px;
+                        margin: 30px;
+                      }
+                      
+                      .box-txt {
+                        font-size: 30px;
+                        color: blue;}
+
+                        * {
+                            margin: 0;
+                            padding: 0;
+                          }
+                          
+                          .box {
+                            background-color: red;
+                            width: 200px;
+                            height: 200px;
+                            border: 3px solid #000;
+                            padding: 30px;
+                            margin: 30px;
+                          }
+                          
+                          .box-txt {
+                            font-size: 30px;
+                            color: blue;
+                            font-weight: bold;}
+
+                            * {
+                                margin: 0;
+                                padding: 0;
+                              }
+                              
+                              .box {
+                                background-color: red;
+                                width: 200px;
+                                height: 200px;
+                                border: 3px solid #000;
+                                padding: 30px;
+                                margin: 30px;
+                              }
+                              
+                              .box-txt{
+                                font-size: 30px;
+                                color: blue;
+                                font-weight: bold;
+                            
+                                text-align: center;}
+
+git commit -m "[Finish]Webサイトを作ってみよう-3"
